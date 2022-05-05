@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FionnFromFar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in general coding 
+- 🌱 I’m currently learning python and GCSE computer Science (UK 16yo exams)
+- 💞️ I’m looking to collaborate on vsCode (the best way to code ☺)
 - 📫 How to reach me @fionndoheny73@gmail.com
 
 <!---
